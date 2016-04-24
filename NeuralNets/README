@@ -1,0 +1,11 @@
+1.	Element strings were transformed using a python script
+2. 	Training Data was split into "features_training.csv" & "targets_training.csv"
+   	because I/O into Torch is a bitch.
+
+3. 	Last 10 lines of TrainingDataSet were held out to asses performance of network,
+	output stored in "benchmarking.txt"
+
+4.	Predictions of Testing set saved under "predictions.txt"
+	Disclaimer: They suck.
+
+

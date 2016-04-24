@@ -1,0 +1,4 @@
+1.recoding elements to numeric characters for Torch input!
+
+2. save stabilityVec to own file
+   -  remove quotes and brackets
